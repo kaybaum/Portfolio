@@ -23,11 +23,11 @@
   transition:.5s; /*transition effect*/
   }
   
-  #tree,#treeExample, #travePic{
+  #me{
       float:left;
       padding-left:100px;
   }
-  #welcomeText, #treeExampleText, #traverseText{
+  #welcomeText{
       float:right;
       padding-right:200px;
       
